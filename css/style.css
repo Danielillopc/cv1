@@ -1,7 +1,7 @@
 /**************** extend css start ****************/
 /**************** extend css start ****************/
 /**************** common css start ****************/
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap");
+@import url("//fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap");
 /* line 3, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_common.scss */
 body {
   font-family: "Montserrat", sans-serif;
@@ -46,9 +46,7 @@ input:hover, input:focus {
 .section_padding {
   padding: 140px 0px;
 }
-.section_padding2 {
-  padding: 10px 0px;
-}
+
 @media only screen and (min-width: 991px) and (max-width: 1200px) {
   /* line 29, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_common.scss */
   .section_padding {
